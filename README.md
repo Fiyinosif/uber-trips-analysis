@@ -15,7 +15,6 @@ Analyze Uber ride data to uncover travel patterns, identify peak ride times, and
 ## 📂 Dataset
 - Simulated Uber trip data
 - Features include Date, Time, Category, Start Location, End location, Miles and Trip Purpose
-- START_DATE	END_DATE	CATEGORY	START	STOP	MILES	PURPOSE
 
 ---
 
