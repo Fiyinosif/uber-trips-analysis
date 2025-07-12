@@ -63,5 +63,14 @@ Analyze Uber ride data to uncover travel patterns, identify peak ride times, and
 
 ---
 
+## 🗂️ Project Structure
+<pre>
+uber-trips-analysis/
+├── uber_analysis.ipynb
+├── data/
+├── images/
+└── README.md
+</pre> 
+
 ## ✅ Conclusion
 This project improved my ability to analyze time-series data, draw business insights, and communicate findings effectively for real-world use cases.
