@@ -43,6 +43,16 @@ Analyze Uber ride data to uncover travel patterns, identify peak ride times, and
 - **Geo-Targeting**: Use **Cary** and similar high-traffic locations for localized marketing or surge strategies.
 
 ---
+
+## 📊 Sample Visualizations
+
+### Trips by Hour
+![Trips by Hour](images/trips_by_hour.png)
+
+### Top Trip Purposes
+![Trip Purposes](images/trip_purpose.png)
+
+---
   
 ## 🧠 Skills Demonstrated
 - Data wranglling and time-based analysis using datetime features
