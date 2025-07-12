@@ -47,7 +47,7 @@ Analyze Uber ride data to uncover travel patterns, identify peak ride times, and
 ## 📊 Sample Visualizations
 
 ### Trips by Hour
-![Trips by Hour]("images/Trip by Hour and Period of day plot.png")
+![Trips by Hour](images/Trip_by_Hour_&_Period_of_day.png)
 
 ### Top Trip Purposes
 ![Trip Purposes](images/trip_purpose.png)
